@@ -1,5 +1,4 @@
 
-<img align="center" width="400" src="https://media1.giphy.com/media/33PMXr72xOqBdOUzTO/giphy.gif?cid=ecf05e47xiiq96a971kc016ocgrqudf3u0awaybkzt274bkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Raed oukal</h1>
 <h3 align="center">I am an professional Data Analyst and BI engineer from middle east</h3>
 <img align="right" width="400" src="https://raedokal.github.io/Portfolio/img/17.gif">
@@ -25,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okal_raed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okal_raed" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/raed okal](https://www.linkedin.com/in/raed-okal-31390b247/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed okal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raed-okal-31390b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed okal" height="30" width="40" /></a>
 <a href="https://kaggle.com/raedokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raedokal" height="30" width="40" /></a>
 </p>
 
