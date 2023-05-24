@@ -13,7 +13,7 @@
 
 - 👨‍💻 my portfolio [https://raedokal.github.io/Portfolio/](https://raedokal.github.io/Portfolio/)
 
-- 💬 Ask me about **excel ,sql or data strategy**
+- 💬 Ask me about **Excel, SQL or Data strategy**
 
 - 📫 How to reach me **raedokal33@gmail.com**
 
