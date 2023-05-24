@@ -1,5 +1,5 @@
 
-<img align="right" width="400" src="https://media1.giphy.com/media/33PMXr72xOqBdOUzTO/giphy.gif?cid=ecf05e47xiiq96a971kc016ocgrqudf3u0awaybkzt274bkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="center" width="400" src="https://media1.giphy.com/media/33PMXr72xOqBdOUzTO/giphy.gif?cid=ecf05e47xiiq96a971kc016ocgrqudf3u0awaybkzt274bkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Raed oukal</h1>
 <h3 align="center">I am an professional Data Analyst and BI engineer from middle east</h3>
 <img align="right" width="400" src="https://raedokal.github.io/Portfolio/img/17.gif">
