@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raed oukal</h1>
 <h3 align="center">I am an professional Data Analyst and BI engineer from middle east</h3>
-<img align="right" width="400" src="https://raedokal.github.io/Portfolio/img/17.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raedokal&label=Profile%20views&color=0e75b6&style=flat" alt="raedokal" /> </p>
 
