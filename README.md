@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okal_raed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okal_raed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raed okal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed okal" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/raed okal](https://www.linkedin.com/in/raed-okal-31390b247/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed okal" height="30" width="40" /></a>
 <a href="https://kaggle.com/raedokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raedokal" height="30" width="40" /></a>
 </p>
 
