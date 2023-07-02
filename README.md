@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/okal_raed" target="blank"><img src="https://img.shields.io/twitter/follow/okal_raed?logo=twitter&style=for-the-badge" alt="okal_raed" /></a> </p>
 
-- 🔭 I’m currently working on [full stack web project](https://github.com/RaedOkal/full-stack-web-development-project/tree/master)
+- 🔭 I’m currently working on [Web-based dashboard](https://github.com/RaedOkal/full-stack-web-development-project/tree/master)
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **a/b testing**
 
 - 👨‍💻 my portfolio [https://raedokal.github.io/Portfolio/](https://raedokal.github.io/Portfolio/)
 
